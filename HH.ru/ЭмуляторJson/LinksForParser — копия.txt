@@ -1,0 +1,10 @@
+https://togliatti.hh.ru/search/vacancy?from=suggest_post&ored_clusters=true&enable_snippets=true&search_field=name&search_field=company_name&search_field=description&text=%D0%91%D1%83%D1%80%D0%B3%D0%B5%D1%80+%D0%BA%D0%B8%D0%BD%D0%B3&L_save_area=true&page={}
+https://togliatti.hh.ru/search/vacancy?ored_clusters=true&enable_snippets=true&search_field=name&search_field=company_name&search_field=description&text=KFC&L_save_area=true&page={}
+https://togliatti.hh.ru/search/vacancy?ored_clusters=true&enable_snippets=true&search_field=name&search_field=company_name&search_field=description&text=%D0%92%D0%BA%D1%83%D1%81%D0%BD%D0%BE+%D0%B8+%D1%82%D0%BE%D1%87%D0%BA%D0%B0&L_save_area=true&page={page_number}
+https://togliatti.hh.ru/search/vacancy?from=suggest_post&ored_clusters=true&enable_snippets=true&search_field=name&search_field=company_name&search_field=description&text=Яндекс+еда&L_save_area=true&page={page_number}
+https://togliatti.hh.ru/search/vacancy?from=suggest_post&ored_clusters=true&enable_snippets=true&search_field=name&search_field=company_name&search_field=description&text=Деливери+клаб&L_save_area=true&page={page_number}
+https://togliatti.hh.ru/search/vacancy?ored_clusters=true&enable_snippets=true&search_field=name&search_field=company_name&search_field=description&text=яндекс+такси&L_save_area=true&page={page_number}
+https://togliatti.hh.ru/search/vacancy?ored_clusters=true&enable_snippets=true&search_field=name&search_field=company_name&search_field=description&text=Самокат&L_save_area=true&page={page_number}
+https://togliatti.hh.ru/search/vacancy?ored_clusters=true&enable_snippets=true&search_field=name&search_field=company_name&search_field=description&text=Сбер+Маркет&L_save_area=true&page={page_number}
+
+

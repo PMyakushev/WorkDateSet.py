@@ -1,0 +1,26 @@
+1695374256964	geckodriver	INFO	Listening on 127.0.0.1:53715
+1695374260026	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\ParseHub\\parsehub.exe" "--marionette" "--remote-debugging-port" "53717" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ALTAIR\\AppData\\Local\\Temp\\rust_mozprofileoZdSTW"
+1695374270106	addons.repository	WARN	Search failed when adding add-ons to cache
+JavaScript error: chrome://phapp/content/js/build/src.bundle.js, line 2: TypeError: n.angular is undefined
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: https://www.parsehub.com/static/js/build/bdemocall.bundle.js, line 2: ReferenceError: $$ is not defined
+JavaScript error: https://calendly.com/assets/external/widget.js, line 1: SyntaxError: expected property name, got '...'
+JavaScript error: chrome://phapp/content/js/build/app.js, line 1: NS_BINDING_ABORTED: Component returned failure code: 0x804b0002 (NS_BINDING_ABORTED) [nsIStreamListener.onStartRequest]
+JavaScript error: chrome://phapp/content/js/build/app.js, line 1: NS_ERROR_DOM_BAD_URI: Component returned failure code: 0x805303f4 [nsIStreamListener.onStartRequest]
+1695374653065	addons.update-checker	WARN	onUpdateCheckComplete failed to parse update manifest: [Exception... "Update manifest is missing a required addons property."  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/addons/AddonUpdateChecker.jsm :: getRequiredProperty :: line 465"  data: no] Stack trace: getRequiredProperty()@resource://gre/modules/addons/AddonUpdateChecker.jsm:465 < parseJSONManifest()@resource://gre/modules/addons/AddonUpdateChecker.jsm:475 < parser()@resource://gre/modules/addons/AddonUpdateChecker.jsm:643 < onLoad()@resource://gre/modules/addons/AddonUpdateChecker.jsm:663 < UpdateParser/<()@resource://gre/modules/addons/AddonUpdateChecker.jsm:584
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: /buckets/monitor/collections/changes/records is not a valid URL.
+Full stack: syncClients@resource://gre/modules/services-common/blocklist-updater.js:71:28
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+this.checkVersions@resource://gre/modules/services-common/blocklist-updater.js:37:10
+notify@resource://gre/components/nsBlocklistService.js:626:7
+TM_notify/<@resource://gre/components/nsUpdateTimerManager.js:218:11
+TM_notify@resource://gre/components/nsUpdateTimerManager.js:263:7
+
+*************************
+JavaScript error: resource://app/modules/CustomizableUI.jsm, line 3911: TypeError: aWindow.gNavToolbox.palette is null
