@@ -10,5 +10,15 @@ https://togliatti.hh.ru/search/vacancy?employer_id=9694561&utm_medium=widgetempl
 https://togliatti.hh.ru/search/vacancy?employer_id=2460946&utm_medium=widgetemployer&utm_campaign=hh.ru_more_link&utm_source=dev.hh.ru&utm_term=%2Fadmin%2Fwidgets%2Femployer&page={}
 https://togliatti.hh.ru/search/vacancy?from=employerPage&employer_id=1740&page={}
 https://togliatti.hh.ru/search/vacancy?from=suggest_post&search_field=description&search_field=name&search_field=company_name&text=Вкусвилл&enable_snippets=true&L_save_area=true&page={}
-
-
+https://togliatti.hh.ru/search/vacancy?employer_id=2071925&utm_medium=widgetemployer&utm_campaign=hh.ru_more_link&utm_source=dev.hh.ru&utm_term=%2Fadmin%2Fwidgets%2Femployer&page={}
+https://togliatti.hh.ru/search/vacancy?from=employerPage&employer_id=5153326&hhtmFrom=employer
+https://togliatti.hh.ru/search/vacancy?employer_id=2608732&utm_medium=widgetemployer&utm_campaign=hh.ru_more_link&utm_source=dev.hh.ru&utm_term=%2Fadmin%2Fwidgets%2Femployer&page={}
+https://togliatti.hh.ru/search/vacancy?from=employerPage&employer_id=5538794&hhtmFrom=employer
+https://togliatti.hh.ru/search/vacancy?from=employerPage&employer_id=4807080&hhtmFrom=employer
+https://togliatti.hh.ru/search/vacancy?from=employerPage&employer_id=5960510&hhtmFrom=employer
+https://togliatti.hh.ru/search/vacancy?employer_id=1272486&utm_medium=widgetemployer&utm_campaign=hh.ru_more_link&utm_source=dev.hh.ru&utm_term=%2Fadmin%2Fwidgets%2Femployer&page={}
+https://togliatti.hh.ru/search/vacancy?from=employerPage&employer_id=10339879&hhtmFrom=employer
+https://togliatti.hh.ru/search/vacancy?from=employerPage&employer_id=2476133&hhtmFrom=employer
+https://togliatti.hh.ru/search/vacancy?from=employerPage&employer_id=2666218&hhtmFrom=employer
+https://togliatti.hh.ru/search/vacancy?from=employerPage&employer_id=2476133&page={}
+https://togliatti.hh.ru/search/vacancy?from=employerPage&employer_id=1676473&page={}
